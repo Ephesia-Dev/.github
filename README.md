@@ -2,7 +2,7 @@
 
 # Ephesia
 
-> All essentials commands
+> Bienvenue !
 
 ## Developpers
 
