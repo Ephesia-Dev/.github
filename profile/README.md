@@ -7,7 +7,6 @@
 ## Developpers
 
 - NediaChicha
-- Hugo
 - Nhics
 
 ---
